@@ -1,0 +1,60 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Generated images and outputs
+generated_images/
+*.jpg
+*.png
+*.jpeg
+!README.md
+
+# Model cache and data
+.cache/
+*.pt
+*.pth
+*.ckpt
+models/
+checkpoints/
+
+# NLTK data (users should download their own)
+nltk_data/
+
+# Environment and IDE
+.env
+.venv
+venv/
+ENV/
+env/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+test_*.py
