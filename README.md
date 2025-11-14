@@ -44,7 +44,7 @@ To run the project
 
 1. Clone the github repo 
 ```
-   git clone https://github.com/aditi098/CSE_291_GenAI.git
+   git clone 
 ```
 2. Set up requirements
     ```
